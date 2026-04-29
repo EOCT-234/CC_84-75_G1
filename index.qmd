@@ -1,0 +1,62 @@
+---
+title: "CC 84-75 - Grupo 1"
+format:
+  html:
+    mainfont: Tinos
+    title-block-banner: false
+    toc: false
+    number-sections: false
+---
+
+## Escuela profesional:
+
+Ingeniería agrónoma
+
+## Curso:
+
+Cultivos Tropicales
+
+## Ciclo:
+
+IX
+
+## Docente:
+
+Vasquez Garcia, Jheiner
+
+## Integrantes:
+
+Campos Troyes, Edgar Orlando
+
+Cubas Fernandez, Mikey Didu
+
+Chasquibol Goñas, Eros Daniel
+
+Navarro Villegas, Katherine Vanessa
+
+Silva Castro, Jose Luis
+
+## Variedad:
+
+CC 84-75
+
+## Datos de colecta:
+
+Coordenadas:
+
+Localidad: Cuchulia
+
+Distrito: Jazan
+
+Provincia: Bongará
+
+Departamento: Amazonas
+
+Nombre de la finca: Ishanga
+
+Nombre del productor: Wilmer Collantes Vasquez
+
+Edad del cultivo; 7 meses (cosecha selectiva).
+
+## Descripción de la variedad:
+
